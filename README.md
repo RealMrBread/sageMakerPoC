@@ -1,4 +1,4 @@
-# sageMakerPoC
+# SageMakerPoC
 AWS Sage Maker PoC
 
 author: Manuel Pan
